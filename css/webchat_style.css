@@ -1,0 +1,28 @@
+.rw-launcher {
+  background-color: #72a492
+}
+
+.rw-conversation-container .rw-header {
+  background-color: #72a492
+}
+
+.rw-conversation-container .rw-title {
+  background-color: #72a492;
+  color: #ffffff;
+  /* color: #2c5370 */
+}
+
+.rw-conversation-container .rw-client {
+  background-color: #72a492
+}
+
+.rw-conversation-container .rw-reply {
+  background-color: #72a492
+}
+
+.rw-conversation-container .rw-send .rw-send-icon-ready {
+  fill: #72a492
+}
+
+/* Cattolica Blue: 2c5370 */
+/* BLUE: 147cb6 */
